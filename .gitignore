@@ -1,0 +1,8 @@
+venv/
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+cache/
+adzuna_cache.json
+.DS_Store
